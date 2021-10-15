@@ -1,6 +1,5 @@
 <component name="libraryTable">
-  <library name="groovy-4.0.0-beta-1" type="groovy-library">
-    <properties version="4.0.0-beta-1" />
+  <library name="groovy-4.0.0-beta-1">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/groovy-datetime-4.0.0-beta-1.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/groovy-dateutil-4.0.0-beta-1.jar!/" />
